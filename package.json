@@ -62,7 +62,7 @@
     "yn": "^3.1.1"
   },
   "scripts": {
-    
+    "filesystem": "tsnd --transpile-only --respawn src/filesystem"
   },
   "keywords": [],
   "author": "Hest",
