@@ -65,7 +65,8 @@
     "filesystem": "tsnd --transpile-only --respawn src/filesystem",
     "path": "tsnd --transpile-only --respawn src/path",
     "events": "tsnd --transpile-only --respawn src/events",
-    "crypto": "tsnd --transpile-only --respawn src/crypto"
+    "crypto": "tsnd --transpile-only --respawn src/crypto",
+    "readline": "tsnd --transpile-only --respawn src/readline"
   },
   "keywords": [],
   "author": "Hest",
